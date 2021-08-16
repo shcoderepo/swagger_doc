@@ -1,0 +1,8 @@
+application-title: users
+application-description: User accounts enable you to provide access to Tenable.io and manage permissions
+  for Tenable.io resources. You can use the API to perform standard CRUD operations on user objects,
+  and also change passwords, generate API keys, impersonate users, enable multi-factor authentication,
+  and manage access authorizations.\n\nFor background information about managing users
+  , see [Tenable.io Vulnerability Management User Guide]
+  (https://docs.tenable.com/tenableio/vulnerabilitymanagement/Content/Settings/Users.htm).
+application-version:  1.0.0

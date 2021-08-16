@@ -1,0 +1,8 @@
+com/tenable/swagger/doc/poc/api/model/InputUser.java
+ com.tenable.swagger.doc.poc.api.model.InputUser
+com/tenable/swagger/doc/poc/SwaggerAnnotationPocApplication.java
+ com.tenable.swagger.doc.poc.SwaggerAnnotationPocApplication
+com/tenable/swagger/doc/poc/api/UserController.java
+ com.tenable.swagger.doc.poc.api.UserController
+com/tenable/swagger/doc/poc/api/model/User.java
+ com.tenable.swagger.doc.poc.api.model.User

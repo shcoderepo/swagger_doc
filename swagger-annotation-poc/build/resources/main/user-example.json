@@ -1,0 +1,15 @@
+{
+  "uuid": "d748ab37-f2cf-461c-8648-a8328c0f483e",
+  "id": 1,
+  "username": "user1@api.demo",
+  "name": "Test User",
+  "email": "user2@example.com",
+  "type": "local",
+  "aggregate": true,
+  "containerUuid": "f8973c82-01a7-4aee-9754-4a61e3b3e70e",
+  "permissions": 32,
+  "loginFailCount": 0,
+  "loginFailTotal": 0,
+  "enabled": true,
+  "lockout": 0
+}
